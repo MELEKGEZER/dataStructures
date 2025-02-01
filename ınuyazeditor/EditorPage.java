@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ınuyazeditor;
 
 import java.awt.Event;
@@ -12,10 +8,7 @@ import java.awt.event.KeyEvent;
 import java.util.Stack;
 import javax.swing.KeyStroke;
 
-/**
- *
- * @author Fatih
- */
+
 public class EditorPage extends javax.swing.JFrame {
 
     /**
